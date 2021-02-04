@@ -17,4 +17,4 @@ for num in range(wishes_num):
     print(best_wishes(name))
 print(f'To lista Twoich życzeń: \n {your_wishes}')
 print(f'{name}, dziękuję za te wszystkie życzenia!\n')
-print("Pora nominiwać 3 osoby do akcji.")
+print('Pora nominiwać 3 osoby do akcji.')
